@@ -14,3 +14,9 @@ wheels/
 
 # Specstory
 .specstory/
+
+# YOLO model weights
+*.pt
+
+# IDE
+.vscode/
